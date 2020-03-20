@@ -1,5 +1,4 @@
 # CMPS-251-Examples
-# Lambda School Web API: Java Course 
 ## Good Resources for Studying Java from https://github.com/rorychristianmurray/java-resources
 
 <details><summary>Tutorials for Learning Core Java</summary>

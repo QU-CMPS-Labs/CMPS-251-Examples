@@ -1,5 +1,5 @@
 # CMPS-251-Examples
-## Good Resources for Studying Java from https://github.com/rorychristianmurray/java-resources
+## Good Resources for Studying Java ... from https://github.com/rorychristianmurray/java-resources
 
 <details><summary>Tutorials for Learning Core Java</summary>
 <p>

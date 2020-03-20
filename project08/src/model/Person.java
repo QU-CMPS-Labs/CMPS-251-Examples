@@ -1,8 +1,8 @@
 package model;
 
 public class Person {
-	protected String name;
-	protected int id;
+	private String name;
+	private int id;
 	
 	public Person() {
 
@@ -29,7 +29,7 @@ public class Person {
 		this.id = id;
 	}
 
-	protected String displayInfo() {
+	public String toString() {
 		return id + "," + name;
 	}
 }

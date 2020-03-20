@@ -11,11 +11,7 @@ public class Employee extends Person {
 	}
 
 	public Employee(int id, String name, int noOfChildren) {
-//		super(name, id);
-
-		super.id = id;
-		super.name = name;
-
+		super(name, id);
 		this.noOfChildren = noOfChildren;
 	}
 
@@ -27,8 +23,8 @@ public class Employee extends Person {
 		this.noOfChildren = noOfChildren;
 	}
 
-	public String displayInfo() {
-		return super.displayInfo() + "," + noOfChildren;
+	public String toString() {
+		return super.toString() + "," + noOfChildren;
 	}
 
 }

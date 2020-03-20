@@ -17,8 +17,8 @@ public class TestApp {
 		
 		Employee emp2= new Employee(124, "Ameen",1);
 		
-		System.out.println(emp.displayInfo());
-		System.out.println(emp2.displayInfo());
+		System.out.println(emp.toString());
+		System.out.println(emp2.toString());
 		
 		
 	}
